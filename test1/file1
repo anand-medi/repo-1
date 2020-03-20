@@ -1,0 +1,10 @@
+
+class hello	# from dev2 in test1 dir
+{
+        public static void main();	# from dev2 in test1 dir
+		{
+			system.out.println("hello from dev2");
+
+		}
+}	# from dev2
+
