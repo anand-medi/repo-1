@@ -1,9 +1,9 @@
 
-class hello	# from dev2 in test2 dir
+class hello	# from dev2 in test2
 {
-        public static void main();	# from dev2 in test2 dir
+        public static void main();	# from dev2 in test2
 		{
 			system.out.println("hello from dev2");
 		}
-}	# from dev2 in test2 dir
+}	# from dev2 in test2
 
