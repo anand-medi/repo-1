@@ -1,7 +1,19 @@
 
+<<<<<<< HEAD
 class hello	# from dev1 in test1 dir
+||||||| merged common ancestors
+class hello	# from dev2 in test1 dir
+=======
+class hello	# from dev2 in test1
+>>>>>>> 7cb6b51778395aa208bb534600943e96bda96fbf
 {
+<<<<<<< HEAD
         public static void main();	# from dev1 in test1 dir
+||||||| merged common ancestors
+        public static void main();	# from dev2 in test1 dir
+=======
+        public static void main();	# from dev2 in test1
+>>>>>>> 7cb6b51778395aa208bb534600943e96bda96fbf
 		{
 			system.out.println("hello from dev1");
 
